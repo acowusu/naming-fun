@@ -44,11 +44,11 @@ h3
   margin: 40px 0 0
 .light
   background:#7efff5
-  border:0
+  border: 0px
   color:#4b4b4b
 ul 
   list-style-type: none
-  padding: 0
+  padding: 0px
 
 li 
   display: inline-block
