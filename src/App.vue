@@ -16,11 +16,7 @@ export default {
   }
 }
 </script>
-<style lang="sass" >
-body
-  background:blue
-  
-</style>
+
 <style>
 body, html{
   /* background: #7efff5; */
